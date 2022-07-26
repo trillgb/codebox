@@ -5,8 +5,9 @@
     {"name": "b", "value": 1},
     {"name": "c", "value": 1},
     {"name": "aspac", "value": 1},
-    {"name": "ubraa", "value": 2},
-    {"name": "moao", "value": 2},
-    {"name": "otla", "value": 2}
+    {"name": "ubraa", "value": 1},
+    {"name": "moao", "value": 1},
+    {"name": "otla", "value": 1},
+    {"name": "oaa", "value": 2}
   ]
 }

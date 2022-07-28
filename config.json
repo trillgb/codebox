@@ -8,6 +8,11 @@
     {"name": "ubraa", "value": 4},
     {"name": "moao", "value": 1},
     {"name": "otla", "value": 4},
-    {"name": "oaa", "value": 4}
+    {"name": "oaa", "value": 4},
+    {"name": "ubdep", "value": 2},
+    {"name": "modep", "value": 2},
+    {"name": "otdep", "value": 2},
+    {"name": "asdep", "value": 2},
+    {"name": "oadep", "value": 2}
   ]
 }

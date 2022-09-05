@@ -1,7 +1,7 @@
 {
   "code": 0,
   "value": [
-    {"name": "aspac", "value": 2},
+    {"name": "aspac", "value": 1},
     {"name": "ubraa", "value": 1},
     {"name": "moao", "value": 1},
     {"name": "otla", "value": 1},
@@ -11,7 +11,7 @@
     {"name": "otdep", "value": 2},
     {"name": "asdep", "value": 2},
     {"name": "oadep", "value": 2},
-    {"name": "aspacp1", "value": 2},
+    {"name": "aspacp1", "value": 1},
     {"name": "aspacp2", "value": 1},
     {"name": "aspacp3", "value": 1},
     {"name": "aspacp4", "value": 1},
@@ -28,7 +28,7 @@
     {"name": "moaop6", "value": 2},
     {"name": "otlap1", "value": 1},
     {"name": "otlap2", "value": 1},
-    {"name": "otlap3", "value": 2},
+    {"name": "otlap3", "value": 1},
     {"name": "otlap4", "value": 1},
     {"name": "otlap5", "value": 2},
     {"name": "otlap6", "value": 2},

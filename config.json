@@ -3,7 +3,7 @@
   "value": [
     {"name": "aspac", "value": 2},
     {"name": "ubraa", "value": 2},
-    {"name": "moao", "value": 2},
+    {"name": "moao", "value": 1},
     {"name": "otla", "value": 2},
     {"name": "oaa", "value": 2},
     {"name": "ubdep", "value": 2},
@@ -33,7 +33,7 @@
     {"name": "otlap5", "value": 2},
     {"name": "otlap6", "value": 2},
     {"name": "oaap1", "value": 2},
-    {"name": "oaap2", "value": 1},
-    {"name": "oaap3", "value": 1}
+    {"name": "oaap2", "value": 2},
+    {"name": "oaap3", "value": 2}
   ]
 }

@@ -2,7 +2,7 @@
   "code": 0,
   "value": [
     {"name": "aspac", "value": 4},
-    {"name": "ubraa", "value": 2},
+    {"name": "ubraa", "value": 1},
     {"name": "moao", "value": 1},
     {"name": "otla", "value": 2},
     {"name": "oaa", "value": 2},
@@ -17,7 +17,7 @@
     {"name": "ubraap3", "value": 2},
     {"name": "moaop1", "value": 1},
     {"name": "moaop2", "value": 2},
-    {"name": "moaop3", "value": 2},
+    {"name": "moaop3", "value": 1},
     {"name": "moaop4", "value": 3},
     {"name": "moaop5", "value": 3},
     {"name": "moaop6", "value": 3},

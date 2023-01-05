@@ -40,6 +40,7 @@
     {"name": "osecp4", "value": 3},
     {"name": "osecp5", "value": 3},
     {"name": "osecp6", "value": 3},
-    {"name": "osecp7", "value": 3}
+    {"name": "osecp7", "value": 3},
+    {"name": "panelx", "value": 2}
   ]
 }

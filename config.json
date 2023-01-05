@@ -42,6 +42,6 @@
     {"name": "osecp6", "value": 3},
     {"name": "osecp7", "value": 3},
     {"name": "panelx", "value": 1},
-    {"name": "panely", "value": 2}
+    {"name": "panely", "value": 1}
   ]
 }

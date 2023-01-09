@@ -34,7 +34,7 @@
     {"name": "oaap2", "value": 2},
     {"name": "oaap3", "value": 2},
     {"name": "oaap4", "value": 3},
-    {"name": "osecp1", "value": 2},
+    {"name": "osecp1", "value": 1},
     {"name": "osecp2", "value": 1},
     {"name": "osecp3", "value": 3},
     {"name": "osecp4", "value": 3},

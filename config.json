@@ -44,7 +44,7 @@
     {"name": "osecp3", "value": 1},
     {"name": "osecp4", "value": 1},
     {"name": "osecp5", "value": 2},
-    {"name": "osecp6", "value": 2},
+    {"name": "osecp6", "value": 1},
     {"name": "osecp7", "value": 2},
     {"name": "panelx", "value": 1},
     {"name": "panely", "value": 1},

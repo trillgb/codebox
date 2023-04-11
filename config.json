@@ -45,6 +45,8 @@
     {"name": "oaap6", "value": 2},
     {"name": "oaap7", "value": 2},
     {"name": "oaap8", "value": 2},
+    {"name": "oaap9", "value": 2},
+    {"name": "oaap10", "value": 2},
     {"name": "osecp1", "value": 2},
     {"name": "osecp2", "value": 2},
     {"name": "osecp3", "value": 3},

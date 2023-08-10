@@ -64,6 +64,7 @@
     {"name": "osecp5", "value": 3},
     {"name": "osecp6", "value": 3},
     {"name": "osecp7", "value": 3},
+    {"name": "osecp8", "value": 2},
     {"name": "panelx", "value": 3},
     {"name": "panely", "value": 3},
     {"name": "panela", "value": 3}

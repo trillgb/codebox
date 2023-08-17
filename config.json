@@ -5,6 +5,7 @@
   "version": 5,
   "value": [
     {"name": "test", "value": 2},
+    {"name": "test2", "value": 2},
     {"name": "aspac", "value": 3},
     {"name": "ubraa", "value": 3},
     {"name": "moao", "value": 2},

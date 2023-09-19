@@ -17,7 +17,7 @@
     {"name": "aspacp12", "value": 2},
     {"name": "aspacp13", "value": 1},
     {"name": "aspacp14", "value": 2},
-    {"name": "ubraap1", "value": 1},
+    {"name": "ubraap1", "value": 2},
     {"name": "ubraap6", "value": 1},
     {"name": "moaop11", "value": 1},
     {"name": "moaop12", "value": 2},
@@ -25,7 +25,7 @@
     {"name": "otlap7", "value": 2},
     {"name": "oaap11", "value": 2},
     {"name": "osecp1", "value": 2},
-    {"name": "osecp2", "value": 1},
+    {"name": "osecp2", "value": 2},
     {"name": "osecp3", "value": 2}
   ]
 }

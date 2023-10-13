@@ -25,7 +25,7 @@
     {"name": "otlap7", "value": 2},
     {"name": "oaap11", "value": 2},
     {"name": "osecp1", "value": 2},
-    {"name": "osecp2", "value": 2},
+    {"name": "osecp2", "value": 1},
     {"name": "osecp3", "value": 2}
   ]
 }
